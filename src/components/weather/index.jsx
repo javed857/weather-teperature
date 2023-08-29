@@ -50,6 +50,7 @@ const Weather = () => {
     }
   }, [currentLocation]);
 
+
   return (
     <div className="main-container">
       <input
